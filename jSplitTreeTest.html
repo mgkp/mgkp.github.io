@@ -1,0 +1,25 @@
+<html>
+<head>
+<link href="jSplitTree.css" rel="stylesheet" type="text/css" />
+<link href="jCollam.css" rel="stylesheet" type="text/css" />
+<script src="jquery.min.js"></script>
+<script src="jLines.js"></script>
+<script src="jSplitTree.js"></script>
+</head>
+<script>
+testTree={
+	topTree:[
+		{
+			box:{color:'#afa',text:'hoi2'},
+			arrow:{text:'arrowtext',mode:1,color:"#f49"}
+		}
+	], 
+	root:{color:'#faa',text:'hoi'}, 
+	bottomTree:[
+	]
+};
+</script>
+<body onload="jSplitTree.create($('#test'), testTree);">
+<div id="test" style="position:absolute;"></div>
+</body>
+</html>

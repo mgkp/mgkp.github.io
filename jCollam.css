@@ -1,0 +1,10 @@
+div.jCollam_MetaBox
+{
+	background-color: white;
+	background-color: rgba(255,255,255,0.5);
+	-moz-border-radius: 4px;
+	border-radius: 4px;	
+	display:inline-block;
+	padding: 2px;
+	margin: -2px 5px -2px 0px;
+}

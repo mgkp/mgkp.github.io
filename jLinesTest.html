@@ -1,0 +1,18 @@
+<html>
+<head>
+<script src="jquery.min.js"></script>
+<script src="jLines.js"></script>
+</head>
+<script>
+////ajax.googleapis.com/ajax/libs/jquery/1.9.1/
+function init() {
+	var lf=new jLineFactory($("#test"));
+	lf.drawCurvedLine([500,100],[[100,0],[0,200],[-50,0],[0,-60],[-50,0,5],[0,190],[50,0]],"red",10,20,10,10);
+}
+</script>
+<body onload="init()">
+<div id="test" style="position:absolute;top:0px;left:0px;"></div>
+<div style="position:absolute;left:499px;top:99px;width:3px;height:3px;background-color:black;"></div>
+<div style="position:absolute;left:399px;top:299px;width:3px;height:3px;background-color:black;"></div>
+</body>
+</html>

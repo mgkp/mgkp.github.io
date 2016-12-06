@@ -1,0 +1,74 @@
+div.ViSpi_box, div.ViSpi_arrowText
+{
+	text-align:center;
+	background-color:#88ff88;
+	padding:4px;
+	margin:5px 0px 5px 0px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;	
+	display:inline-block;
+}
+div.ViSpi_arrowText
+{
+	z-index:2;
+	position:relative;
+	padding:1px 4px 1px 4px;
+	margin: 0px;
+}
+div.ViSpi_line,div.ViSpi_shortlineHor,div.ViSpi_shortlineVert,div.ViSpi_hlineUp,div.ViSpi_hlineDown
+{
+	margin:0px;padding:0px;
+	position:absolute;
+	width:5px;height:5px;
+}
+div.ViSpi_hlineUp
+{
+	-moz-border-radius: 7px 0px 0px 0px;	
+	border-radius: 7px 0px 0px 0px;	
+}
+div.ViSpi_hlineDown
+{
+	-moz-border-radius: 0px 0px 0px 7px;
+	border-radius: 0px 0px 0px 7px;	
+}
+
+div.ViSpi_shortlineHor
+{	width:10px;
+}
+div.ViSpi_shortlineVert
+{	height:7px;
+	left:10px;
+	background-color:black;
+}
+div.ViSpi_shortlineBottom
+{
+	position:relative;
+	top:5px;
+}
+div.ViSpi_shortlineTop
+{
+	position:relative;
+	top:-12px;
+}
+div.ViSpi_arrow0, div.ViSpi_arrow1, div.ViSpi_arrow2,div.ViSpi_arrow3
+{
+	z-index:2;
+	margin:0px;
+	position:absolute;
+	width:0px;
+	height:0px;
+	border: 5px solid rgba(0,0,0,0.0);
+}
+div.ViSpi_arrow1,div.ViSpi_arrow3
+{
+}
+div.ViSpi_arrow0, div.ViSpi_arrow2
+{
+}
+
+div.ViSpi_itemText
+{
+	display:inline-block;
+	padding: 2px;
+	margin-right: 5px;
+}
