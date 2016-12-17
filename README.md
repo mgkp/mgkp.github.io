@@ -5,3 +5,5 @@ mgkp.github.io
 
 TODO
 mobiles
+todoz in 1may
+text font size?
