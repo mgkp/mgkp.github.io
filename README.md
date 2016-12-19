@@ -13,3 +13,4 @@ TODO
 * authors
 * argmaps
 * local comments
+* add MGKP to posts
