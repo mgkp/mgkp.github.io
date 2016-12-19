@@ -14,3 +14,5 @@ TODO
 * argmaps
 * local comments
 * add MGKP to posts
+* add show all to greens vk, add imgs
+* add info and use diaspora
