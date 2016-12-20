@@ -3,7 +3,10 @@ body { margin: 60px auto; width: 70%; }
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-p, ul { text-align: justify; font-size: 1.4em; line-height: 1.3em; color: #333; }
+p, ul { font-size: 1.4em; line-height: 1.3em; color: #333; }
+p { text-align: justify; }
+li.post { text-align: left; }
+div.date { float: left; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
