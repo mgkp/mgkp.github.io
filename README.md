@@ -8,12 +8,13 @@ TODO
 * mobiles
 * ~~alt text for images added for 1may~~
 * text font size?
-* localize months
+* ~~dates localization~~
 * cooperation
 * authors
 * argmaps
 * local comments
-* add MGKP to posts
+* ~~add MGKP to posts~~
+* add MGKP to post's titles
 * add show all to greens vk, add imgs
 * add info and use diaspora
 * ~~date alignment on main page~~
