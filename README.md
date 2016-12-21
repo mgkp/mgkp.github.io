@@ -6,7 +6,7 @@ mgkp.github.io
 TODO
 ----
 * mobiles
-* todoz in 1may
+* ~~alt text for images added for 1may~~
 * text font size?
 * localize months
 * cooperation
@@ -17,3 +17,12 @@ TODO
 * add show all to greens vk, add imgs
 * add info and use diaspora
 * ~~date alignment on main page~~
+* tags
+* pager
+* favicon
+* publish in livejournal, vk, fb
+* comments on github
+* reaction
+* add logo
+* bkup
+* merge repos
