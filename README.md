@@ -15,7 +15,8 @@ TODO
 * local comments
 * ~~add MGKP to posts~~
 * add MGKP to post's titles
-* add show all to greens vk, add imgs
+* ~~add show all to greens vk~~
+* ~~imgs to greens vk added~~
 * add info and use diaspora
 * ~~date alignment on main page~~
 * tags
@@ -27,3 +28,5 @@ TODO
 * add logo
 * bkup
 * merge repos
+* security +(jekyll serve + youtube)
+* 
