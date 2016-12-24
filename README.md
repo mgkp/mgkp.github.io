@@ -6,10 +6,11 @@ mgkp.github.io
 TODO
 ----
 * mobiles
-* ~~alt text for images added for 1may~~
+* add alt text for images for greens vk
 * text font size?
 * ~~dates localization~~
 * cooperation
+* ~~author added to 1may~~
 * authors
 * argmaps
 * local comments
@@ -22,11 +23,16 @@ TODO
 * tags
 * pager
 * favicon
-* publish in livejournal, vk, fb
+* publish in livejournal (trabajadores), vk, fb
 * comments on github
 * reaction
 * add logo
 * bkup
 * merge repos
 * security +(jekyll serve + youtube)
-* 
+* delete doubles in lj
+* tags on trab lj
+* send to mailing lists
+* post to diasp
+* publish to lj
+* clean lj
