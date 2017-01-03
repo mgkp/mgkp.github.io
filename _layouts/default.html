@@ -4,30 +4,20 @@
     <title>{{ page.title }}</title>
     
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-  
+
   </head>
-
-
+  
   <body>
-<h3>Марксистская группа</h3>
-<h1>КЛАССОВАЯ ПОЛИТИКА</h1>
-<nav>
-  <ul>
-    <li><a href="/">Главная</a></li>
-  </ul>
-</nav>
-<div class="container">
+
+{% include header.html %}
+    
+    <div class="container">
 
   {{ content }}
 
 </div>
   
-  <footer>
-   <ul>
-     <li><a href="mailto:periodico.trabajadores@gmail.com">email</a></li>
-     <li><a href="/atom.xml">atom</a></li>
-   </ul>
-  </footer>
+{% include footer.html %}
   </body>
 
 </html>

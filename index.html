@@ -5,7 +5,14 @@ title: Марксистская группа "КЛАССОВАЯ ПОЛИТИК�
 <ul class="posts">
 
   {% for post in site.posts %}
-    <li class="post";><div class="date";>{% include date-ru.html date=post.date %}&nbsp;&raquo;&nbsp;</div><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        {% if post.categories contains 'blog' %}
+  <li class="post">
+    <div class="date">
+      {% include date-ru.html date=post.date %}&nbsp;&raquo;&nbsp;
+    </div>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  </li>
+  {% endif %}
   {% endfor %}
     
 </ul>

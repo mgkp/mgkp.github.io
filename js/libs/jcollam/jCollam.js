@@ -1,5 +1,7 @@
 jCollam = new Object();
 
+jCollam.words=words;
+
 jCollam.useGradients = true;
 jCollam.showProbabilities = true;
 jCollam.showInternalIds = false;
@@ -7,8 +9,6 @@ jCollam.showExternalIds = false;
 
 jCollam.onClickItem = null;
 jCollam.onClickConnection = null;
-
-jCollam.words=['supports','challenges'];
 
 jCollam.draw = function(jQueryTarget, rootsOrText)
 {
@@ -175,7 +175,7 @@ jCollam.Or.prototype.calcProbability=function()
 }
 jCollam.Or.prototype.getText=function()
 {
-	return 'or';
+	return jCollam.words[3];
 }
 jCollam.And = function()
 {
@@ -184,7 +184,7 @@ jCollam.And = function()
 jCollam.And.prototype = new jCollam.Item;
 jCollam.And.prototype.getText=function()
 {
-	return 'and';
+	return jCollam.words[2];
 }
 
 jCollam.Proposition = function(text,probability)

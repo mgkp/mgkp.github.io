@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    
+    <link href="/css/jSplitTree.css" rel="stylesheet" type="text/css" />
+    <link href="/css/jCollam.css" rel="stylesheet" type="text/css" />
+
+    <script src="/js/libs/jquery/jquery-3.1.1.min.js"></script>
+    <script src="/js/libs/jcollam/jLines.js"></script>
+    <script src="/js/libs/jcollam/jCollamWords-ru.js"></script>
+    <script src="/js/libs/jcollam/jCollam.js"></script>
+    <script src="/js/libs/jcollam/jSplitTree.js"></script>
+    {{ content }}
+    <script>
+      function update() {
+        var o=$('#test');
+        jCollam.clearTarget(o);
+        jCollam.draw(o, textObj.value);
+      }
+    </script>
+
+  </head>
+  
+  <body onload="init();" onresize="update();">
+
+{% include header.html %}
+    
+    <div class="container">
+
+      <div id="test"></div>
+
+</div>
+  
+{% include footer.html %}
+  </body>
+
+</html>
