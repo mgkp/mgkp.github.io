@@ -271,7 +271,7 @@ date: 2016-12-16
 ### Ваня Золотарев ответил Анастасие
 > Вы мужчина или женщина? <https://www.youtube.com/watch?v=qVKMI1xsfZk>
 
-> [![todo](http://img.youtube.com/vi/qVKMI1xsfZk/0.jpg)](http://www.youtube.com/watch?v=qVKMI1xsfZk)
+> [![todo](https://img.youtube.com/vi/qVKMI1xsfZk/0.jpg)](https://www.youtube.com/watch?v=qVKMI1xsfZk)
 
 > 2 мая в 10:38
 
@@ -643,7 +643,7 @@ date: 2016-12-16
 ### Ваня Золотарев ответил Анастасие
 > Анастасия, <https://www.youtube.com/watch?v=qVKMI1xsfZk>
 
-> [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qVKMI1xsfZk/0.jpg)](http://www.youtube.com/watch?v=qVKMI1xsfZk)
+> [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qVKMI1xsfZk/0.jpg)](https://www.youtube.com/watch?v=qVKMI1xsfZk)
 
 > 2 мая в 14:56
 
