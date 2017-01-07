@@ -14,8 +14,20 @@ TODO
 * ~~add show all to greens vk~~
 * ~~imgs to greens vk added~~
 * ~~date alignment on main page~~
-* mobiles
+* ~~post to diasp~~
 * add alt text for images for greens vk
+* publish in livejournal (trabajadores), vk, fb
+* reaction
+* publish to lj
+* delete doubles in lj
+* tags on trab lj
+* send to mailing lists
+* clean lj
+* no dupl for default layouts
+* remove blog subfolder
+* add staticman
+* multi tag searches
+* mobiles
 * text font size?
 * cooperation
 * authors
@@ -26,21 +38,14 @@ TODO
 * tags
 * pager
 * favicon
-* publish in livejournal (trabajadores), vk, fb
 * comments on github
-* reaction
 * add logo
 * bkup
 * merge repos
 * security +(jekyll serve + youtube)
-* delete doubles in lj
-* tags on trab lj
-* send to mailing lists
-* post to diasp
-* publish to lj
-* clean lj
-* add atom for argmap
-* no dupl for default layouts
 * add sandbox
 * add link to argmaps
 * add html tags to argmaps
+* add atom for argmap
+* add tech link
+* check connection is not secure
