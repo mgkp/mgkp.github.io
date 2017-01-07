@@ -15,7 +15,7 @@ TODO
 * ~~imgs to greens vk added~~
 * ~~date alignment on main page~~
 * ~~post to diasp~~
-* add alt text for images for greens vk
+* ~~add alt text for images for greens vk~~
 * publish in livejournal (trabajadores), vk, fb
 * reaction
 * publish to lj
@@ -48,5 +48,8 @@ TODO
 * add html tags to argmaps
 * add atom for argmap
 * get rid of dates on argmaps list
+* text view for argmaps
 * add tech link
 * check connection is not secure
+* add sitemap
+* scale photo on greens page
