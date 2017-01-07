@@ -7,8 +7,8 @@ title: Марксистская группа "КЛАССОВАЯ ПОЛИТИК�
 
   {% for post in site.posts %}
     {% if post.categories contains 'argmaps' %}
-  <li class="argmap";><div class="date";>{% include date-ru.html date=post.date %}&nbsp;&raquo;&nbsp;</div><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endif %}
+      <li class="argmap";><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endif %}
   {% endfor %}
     
 </ul>

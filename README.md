@@ -47,5 +47,6 @@ TODO
 * add link to argmaps
 * add html tags to argmaps
 * add atom for argmap
+* get rid of dates on argmaps list
 * add tech link
 * check connection is not secure
