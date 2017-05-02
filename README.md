@@ -53,3 +53,4 @@ TODO
 * check connection is not secure
 * add sitemap
 * scale photo on greens page
+* add ∴ ∵ ↯ ℹ ⊦ signs
