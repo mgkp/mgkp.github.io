@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<!--<div style="background-image: url('/images/draft.jpg');">-->
+
+  <div style="opacity: 0.5; color: grey; position: fixed; top: 0%;">
+    <h1>ЧЕРНОВИК</h1>
+  </div>
+
+<h2>{{ page.title }}</h2>
+<p class="meta">{% include date-ru.html date=page.date %}</p>
+
+<div class="post">
+  {{ content }}
+</div>
+
+<p style="text-align: right;">{{ page.author }}</p>
+
+<!--</div>>
