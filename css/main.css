@@ -62,7 +62,7 @@ main {
 	width: 260px;
 	position: fixed;
 	top: 0;
-	left: 0;
+	left: 260px;
 	bottom: 0;
 	right: auto;
 	min-height: 690px;
