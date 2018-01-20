@@ -59,11 +59,11 @@ main {
 }
 
 #sidebar {
-	width: 160px;
+	width: 260px;
 	position: fixed;
 	top: 160px;
 	left: 0px;
-	bottom: 260px;
+	bottom: 160px;
 	right: auto;
 	min-height: 290px;
   border-right: 1px solid #efefef;
