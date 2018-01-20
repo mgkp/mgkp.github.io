@@ -60,10 +60,10 @@ main {
 
 #sidebar {
 	width: 260px;
-/*	position: fixed;*/
-	top: 0px;
-	left: 0px;
-	bottom: 0;
+	position: fixed;
+	top: 260px;
+	left: 260px;
+	bottom: 260px;
 	right: auto;
 	min-height: 690px;
   border-right: 1px solid #efefef;
