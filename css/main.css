@@ -61,7 +61,7 @@ main {
 #sidebar {
 	width: 260px;
 	position: fixed;
-	top: 0;
+	top: 260px;
 	left: 260px;
 	bottom: 0;
 	right: auto;
