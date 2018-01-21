@@ -21,4 +21,4 @@ author: МГКП
 Мы хотим, чтобы ваши права в результате закрытия проекта "Планетоград" не были нарушены.
 
 <p style="text-align: right;">часть коалиции за науку, образование и культуру</p>
-<p style="text-align: right;">[https://vk.com/clubknok](https://vk.com/clubknok)</p>
+<p style="text-align: right;"><a href="https://vk.com/clubknok">https://vk.com/clubknok</a></p>
