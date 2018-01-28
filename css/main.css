@@ -31,7 +31,7 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
-main {
+/*main {
   margin-left: 260px;
 	border-left: 1px solid #efefef;
 	position: relative;
@@ -56,7 +56,7 @@ main {
       }
     }
   }
-}
+}*/
 
 #sidebar {
 	width: 260px;
