@@ -54,10 +54,9 @@ author: РКИТ
 
 *"Революционная коммунистическая интернациональная тенденция" (Замбия, Пакистан, Шри Ланка, Йемен, Тунис, Израиль/оккупированная Палестина, Бразилия, Мексика, Новая Зеландия, Британия, Германия и Австрия), www.thecommunists.net*
 
-*"Возрождение панафриканского сознания" (Нигерия), https://www.facebook.com/alkebulanschool/*
+*"Возрождение панафриканского сознания" (Нигерия), https://m.facebook.com/pacorenaissance/?ref=bookmarks*
 
-*Школа изучения проблем темнокожих Алкебулан (Кения),
-https://m.facebook.com/pacorenaissance/?ref=bookmarks*
+*Школа изучения проблем темнокожих "Алкебулан" (Кения), https://www.facebook.com/alkebulanschool/*
 
 *"Классовая война" (Турция), http://sinif-savasi.blogspot.com*
 
