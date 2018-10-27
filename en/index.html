@@ -9,7 +9,7 @@ sidebar: true
         {% if post.categories contains 'en' %}
   <li class="post">
     <div class="date">
-      {% include date-en.html date=post.date %}&nbsp;&raquo;&nbsp;
+      {{ post.date | date_to_string }}&nbsp;&raquo;&nbsp;
     </div>
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
