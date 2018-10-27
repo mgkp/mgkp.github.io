@@ -1,0 +1,19 @@
+---
+layout: en-default
+title: Marxist Group "Class Politics"
+sidebar: true
+---
+<ul class="posts">
+
+  {% for post in site.posts %}
+        {% if post.categories contains 'blog' %}
+  <li class="post">
+    <div class="date">
+      {% include date-en.html date=post.date %}&nbsp;&raquo;&nbsp;
+    </div>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  </li>
+  {% endif %}
+  {% endfor %}
+    
+</ul>
