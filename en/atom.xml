@@ -14,7 +14,7 @@
  </author>
 
  {% for post in site.posts limit:20 %}
- {% if post.categories contains 'blog' %}
+ {% if post.categories contains 'en' %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="https://mgkp.github.io{{ post.url }}"/>
