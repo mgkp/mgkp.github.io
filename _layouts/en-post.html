@@ -1,11 +1,11 @@
 ---
 layout: en-default
 ---
-<h2>{{ en-page.title }}</h2>
-<p class="meta">{% include date-en.html date=en-page.date %}</p>
+<h2>{{ page.title }}</h2>
+<p class="meta">{% include date-en.html date=page.date %}</p>
 
 <div class="post">
   {{ content }}
 </div>
 
-<p style="text-align: right;">{{ en-page.author }}</p>
+<p style="text-align: right;">{{ page.author }}</p>
