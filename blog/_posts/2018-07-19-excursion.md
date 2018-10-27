@@ -31,7 +31,7 @@ author: МГКП
 **За всеобщую стачку! За единый фронт!**
 
 [Единый фронт против повышения пенсионного возраста и увеличения НДС](vk.com/spbunited)
-[2](vk.com/unitedfrontagainst)
+([2](vk.com/unitedfrontagainst))
 
 [Марксистская группа «Классовая политика»](https://mgkp.github.io)
 
