@@ -6,7 +6,7 @@ title: "Интервью марксистской группы &quot;Класс�
 author: МГКП
 ---
 
-[Interview with Russian Marxists: Imperialism, Authoritarian Regime and the Left in Russia](https://www.thecommunists.net/forum/mg-russia-interview/)
+[Interview with Marxist Group "Class Politics" (MGKP) to "Revolutionary Communist International Tendency"](https://mgkp.github.io/blog/en/2017/11/06/interview)
 
 ### Какой вы видите нынешнюю политическую ситуацию в путинской России?
 
