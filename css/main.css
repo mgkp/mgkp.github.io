@@ -65,7 +65,7 @@ ul.posts li { list-style: none; }
 	left: 160px;
 	bottom: 260px;
 	right: auto;
-	min-height: 290px;
+	min-height: 270px;
   border-right: 1px solid #efefef;
 
 	#avatar {
