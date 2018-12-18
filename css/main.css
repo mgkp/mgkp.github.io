@@ -59,19 +59,19 @@ ul.posts li { list-style: none; }
 }*/
 
 #sidebar {
-	width: 260px;
+	width: 200px;
 /*	position: fixed;*/
-	top: 260px;
+	top: 200px;
 	left: 160px;
 	bottom: 260px;
 	right: auto;
-	min-height: 260px;
+	min-height: 200px;
   border-right: 1px solid #efefef;
 
 	#avatar {
 		margin:30px auto 0 auto;
-		width: 60px;
-		height: 60px;
+		width: 30px;
+		height: 30px;
 		border-radius: 50%;
 		border: 5px solid #f8f8f8;
 
