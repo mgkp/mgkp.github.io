@@ -59,15 +59,15 @@ ul.posts li { list-style: none; }
 }*/
 
 #sidebar {
-    width: 13em; /*200px;*/
-    /*	position: fixed;*/
+ /*   width: 13em; 200px;*/
+    /*	position: fixed;
     top: 200px;
     left: 160px;
     bottom: 260px;
-    right: auto;
-    min-height: 200px;
+    /*right: auto;
+    min-height: 13em;
     border-right: 1px solid #efefef;
-
+/*
     #avatar {
 	margin:30px auto 0 auto;
 	width: 30px;
@@ -75,7 +75,7 @@ ul.posts li { list-style: none; }
 	border-radius: 50%;
 	border: 5px solid #f8f8f8;
 
-	.border {
+/*	.border {
 	    border-radius:50%;
 	    width:50px;
 	    height:50px;
@@ -85,17 +85,17 @@ ul.posts li { list-style: none; }
 
 	    .img_container {
 		border-radius:50%;
-		width:40px;
+		width: 13em;
 		height:40px;
 		border:2px solid #f0f0f0;
 		margin-left: 8px;
 		margin-top: 8px;
-
+*/
 		img{
-		    width: 40%;
-		    height: 40%;
-		    border-radius:50%;
-		    overflow: hidden;
+		    width: 13em;
+		    height: 13em;
+		  /*  border-radius:50%;
+		    overflow: hidden;*/
 		}
 	    }
 	}
